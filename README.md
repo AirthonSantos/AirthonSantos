@@ -52,14 +52,14 @@
 		style="max-width: 100%; height: auto; padding-right: 10px;"
 		width="380px"
 		alt="Estatísticas gerais do perfil"
-		src="https://github-readme-stats.vercel.app/api?username=AirthonSantos&theme=nord&locale=pt-br&rank_icon=github&show_icons=true&hide_border=true"  
+		src="https://github-readme-stats-airthon.vercel.app/api?username=AirthonSantos&theme=nord&locale=pt-br&rank_icon=github&show_icons=true&hide_border=true"  
 	/>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img 
 		style="max-width: 100%; height: auto;"
 		width="350px"
 		alt="Linguagens mais usadas"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=AirthonSantos&layout=compact&theme=nord&locale=pt-br&hide_border=true" 
+		src="https://github-readme-stats-airthon.vercel.app/api/top-langs?username=AirthonSantos&layout=compact&theme=nord&locale=pt-br&hide_border=true" 
 	/>
 </div>
 
